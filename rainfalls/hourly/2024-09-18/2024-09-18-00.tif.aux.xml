@@ -1,0 +1,9 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>0[-] SFC="Ground or water surface"</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>0[-] SFC="Ground or water surface"</Description>
+    <NoDataValue le_hex_equiv="00000040331A4B44">9.99900026055401E+20</NoDataValue>
+  </PAMRasterBand>
+</PAMDataset>
